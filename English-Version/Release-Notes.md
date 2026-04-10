@@ -179,3 +179,40 @@ Implemented minor improvements, including updating screenshots to reflect the la
 ------------
 
 </details>
+
+<details>
+  <summary>09-April-2026</summary>
+
+## Release Date : 09-April-2026
+
+### Summary of Changes
+
+Implemented minor improvements, including updating screenshots to reflect the latest UI and refining instructions to enhance clarity and precision.
+
+### Infrastructure Changes
+
+### Content Changes
+
+- Updated the minor instruction to improve clearity and to align with latest UI updates.
+
+### Screenshot Updates
+
+- Screenshots were updated to reflect the better clearity in the following steps:
+  - **Exercise 1** - 4 screenshots updates in Task 1 and Task 2 combined
+  - **Exercise 2** - 2 screenshots updates in Task 3 
+  - **Exercise 3** - 6 screenshots updates in Task 2, Task 3 and Task 4 combined
+  - **Exercise 4** - 3 screenshots updates in Task 2 and Task 3 combined
+  - **Exercise 5** - 3 screenshots updates in Task 1 and Task 2 combined
+  - **Exercise 6** - 4 screenshots updates in Task 4, Task 5 and Task 6 combined.
+
+### Testing Notes
+
+- **Testing Date**: 09-April-2026
+
+### Testing Scope 
+
+- Performed end to end lab, validated lab flow continuity, content accuracy, and screenshot alignment with the latest UI.
+
+------------
+
+</details>
